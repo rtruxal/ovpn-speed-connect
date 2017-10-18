@@ -1,5 +1,5 @@
 from setuptools import setup, find_packages
-#TODO: BETTER NAME. U WELCOM
+#TODO: BETTER NAME. U WELCOM.
 setup(name='speedyvpn',
       version='0.0.2',
 
